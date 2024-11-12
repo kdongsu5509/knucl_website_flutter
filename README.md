@@ -1,16 +1,29 @@
-# knucl_flutter
+# KNUCL_WEBSITE 프로젝트의 Flutter Respository
+---
 
-A new Flutter project.
+## 1. 프로젝트 소개
 
-## Getting Started
+- **프로젝트 명** : KNUCL_WEBSITE
+- **프로젝트 기간** : 2024.11.13 ~ 현재
+- **프로젝트 목적** : Notion Campus Leader In KNU의 활동을 원할하게 돕는 웹사이트를 구축 및 운영
+- **프로젝트 팀원** : 고동수
 
-This project is a starting point for a Flutter application.
+## 2. 개발 환경
 
-A few resources to get you started if this is your first Flutter project:
+- **개발 환경** : Windows 10
+- **개발 툴** : IntelliJ IDEA 2024.2.3
+- **사용 기술** : Flutter Web
+- **형상 관리** : Git, GitHub
+- **협업 도구** : Notion, KakaoTalk
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 3. 프로젝트 구조
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+
+```
+
+## 4. 프로젝트 기능
+
+- **로그인**
+- **회원가입**
+- **게시판**
